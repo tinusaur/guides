@@ -7,6 +7,7 @@ To identify the value of a resistor(measured in ohms), use the following color-c
 ![Alt Text](https://github.com/tinusaur/guides/blob/master/docs/images/resistor_scheme.jpg "Resistor Scheme")
 
 Using this color scheme, you can determine the value of the resistors in the Tinosaur kit. After identifying the resistors based on their value, you can consult the Tinosaur board scheme to place the resistors in the correct locations.
+
 Example
 -------
 Using the numbers and colors of the resistor bands, you determine the value of the resistor. The following resistor is a 10000ohm (10k) resistor:
