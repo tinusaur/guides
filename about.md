@@ -1,6 +1,6 @@
-#What is Tinusaur 
+# What is Tinusaur 
 
-#####With the **Tinusaur** kit you can assemble your own pocket-size **Tinusaur** microcontroller and make your first steps in computer hardware engineering!
+## With the **Tinusaur** kit you can assemble your own pocket-size **Tinusaur** microcontroller and make your first steps in computer hardware engineering!
 
 If you are a _high school_ or _university student_, the **Tinusaur** project can be your very first hardware assembly work.
 If you are a _teacher_, the **Tinusaur** project will help you lead action-packed classes in hardware studies and assembly.
