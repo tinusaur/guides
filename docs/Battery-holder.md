@@ -1,7 +1,7 @@
 ## Battery Holder
 
 Orientation of the component: **Yes**
-![](http://github.com/tinusaur/guides/blob/master/docs/images/Battery%20Holder.jpg)
+![Battery Holder](https://github.com/tinusaur/guides/blob/master/docs/images/Battery%20Holder.jpg)
 
 To mount the battery holder:
 
