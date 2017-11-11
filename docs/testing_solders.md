@@ -1,6 +1,9 @@
 # Testing Your Solders
+<!-- terminology-edit: testing vs. checking -->
 
 Before you solder the battery socket onto your Tinosaur board, make sure you have correctly connected the other components to the PCB (printed circuit board).
+<!-- structure-edit: remove battery reference from text to make the topic more general-->
+<!-- terminology-edit: board vs. pcb, vs. tinusaur - edit to use as a genral topic -->
 
 Check your board for the following defects:
 ###### Short Circuits:
