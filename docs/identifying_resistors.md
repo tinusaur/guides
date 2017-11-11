@@ -1,4 +1,4 @@
-Identyfying the Value of a Resistor
+Identifying the Value of a Resistor
 ========
 A resistor is an electrical component that limits or regulates the flow of electrical current in an electronic circuit. Resistors can also be used to provide a specific voltage for an active device, for example an LED(light-emitting diode). The Tinosaur kit may contain more than one resistor, each having a different purpose.
 
