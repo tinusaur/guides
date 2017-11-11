@@ -4,19 +4,21 @@
 
 ## Main Board Package
 
-1. DIP-8 socket for MCU (a dual in-line package)
-1. ATtiny85 microcontroller
-1. Header 2×4, Female
-1. Header 2×5, Female
-1. Resistor 10K
-1. Capacitor 100uF
-1. Capacitor 100nF
-1. Header 1×2, Female, for external battery
-1. Header 1×2, Male, for internal battery on/off (put the cap on)
-1. Header 2×5, Male, Shrouded, for ISP / USBasp
-1. Battery holder for CR2032 battery
-1. Push button, for RESET
-2. CR2032 Lithium Battery 3V
+1. PCB - Tinusaur PCB
+2. Socket, DIP-8 - DIP-8 socket for MCU
+3. MCU, Attiny85 - Atmel AVR ATtiny85 microcontroller
+4. H1, Header - Header 2×4, Female
+5. H2, Header - Header 2×5, Female
+6. R1, Resistor - Resistor 10K, Small, 1/8W
+7. C2, Capacitor - Capacitor 100uF, Low profile 5×5 mm
+8. C1, Capacitor - Capacitor 100nF, Small
+9. Power, Header - Header 1×2, Female, for external power
+10. Battery, Header - Header 1×2, Male, for internal battery on/off (put the cap on)
+11. Battery, Jumper - Jumper, 2-pin, for battery power on/off
+12. ISP, Header - Header 2×5, Male, Shrouded, for ISP / USBasp
+13. Battery holder - Battery holder for CR2032 battery
+14. RESET, Button - Tactile push button, for RESET
+15. Battery 3V - Battery 3V, CR2032
 
 
 ## Usb Controller
