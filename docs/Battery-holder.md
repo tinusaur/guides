@@ -3,8 +3,8 @@
 Orientation of the component: **Yes**
 <!-- unclear-reword: suggested - 'has orientattion = yes' -->
 ![Battery Holder](https://github.com/tinusaur/guides/blob/master/docs/images/Battery%20Holder.jpg)
-<!-- edit-immage: annotate -->
-<!-- add-image: before soldering -->
+<!-- edit-image: annotate, callouts where needed to explain which is which -->
+<!-- add-image: before soldering, separate images of the battery holder and the board, so that it is clear where is the plus and the minus-->
 To mount the battery holder:
 
 1. Flip the PCB upside down.
