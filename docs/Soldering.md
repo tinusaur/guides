@@ -1,6 +1,7 @@
 # Soldering for Beginners 
 ## What is Soldering?
 Soldering is a method of joining components permanently to a printed circuit board (PCB). You use an alloy of tin and lead called solder to bind a component pin/leg to the copper track of a circuit.
+<!-- terminology-edit: lead vs. leg, track vs. path -->
 
 ## Soldering Tools
 ### Main Tools
