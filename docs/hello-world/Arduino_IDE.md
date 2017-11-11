@@ -1,6 +1,7 @@
 ##Installing the Arduino IDE on a Windows OS 
 
-The Arduino IDE is a ............
+Arduino is an open-source electronics platform based on easy-to-use hardware and software. It's intended for anyone making interactive projects.
+(https://www.arduino.cc/en/Guide/Introduction "Learn More about Arduino")
 
 ######Software Requirements: 
 * Windows 7 32-bit
