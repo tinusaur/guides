@@ -7,3 +7,4 @@ The Tinusaur Project Guides Repository
 - Try to balance photos and diagrams (check that they don't get repetative or too many)
 2. Use the slot IDs from the board in the instruction steps to identify where to insert components, for example SW1 for the reset button instead of "right side of the PCB".
 3. What level of detail to use for the description of each component (what does it do?).
+4. Do we use one photo for all components in the bag or separate photos for each component?
