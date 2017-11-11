@@ -1,13 +1,17 @@
 ## Battery Holder
 
 Orientation of the component: **Yes**
+<!-- unclear-reword: suggested - 'has orientattion = yes' -->
 ![Battery Holder](https://github.com/tinusaur/guides/blob/master/docs/images/Battery%20Holder.jpg)
-
+<!-- edit-immage: annotate -->
+<!-- add-image: before soldering -->
 To mount the battery holder:
 
 1. Flip the PCB upside down.
 2. Sand the solders to make them with equal hеight.
+<!-- add-image: sanding specifics -->
 3. Check the spring of the battery holder and make sure it fits in the holder properly.
+<!-- misplaced-moveup: this should be done in the beginning -->
 4. Place the battery holder.
 5. Solder the leads on the front side of the PCB and put more solder wire than usual.
 
