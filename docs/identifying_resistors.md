@@ -5,6 +5,9 @@ A resistor is an electrical component that limits or regulates the flow of elect
 To identify the value of a resistor(measured in ohms), use the following color-coded table:
 
 ![Alt Text](https://github.com/tinusaur/guides/blob/master/docs/images/resistor_scheme.jpg "Resistor Scheme")
+<!-- image-edit: redraw (copyright) -->
+<!-- content-add: info about both resistors -->
+<!-- structure-edit: move the sample drawing to resistor soldering topic -->
 
 Using this color scheme, you can determine the value of the resistors in the Tinosaur kit. After identifying the resistors based on their value, you can consult the Tinosaur board scheme to place the resistors in the correct locations.
 
