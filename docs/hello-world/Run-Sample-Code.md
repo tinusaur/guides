@@ -44,3 +44,10 @@ void loop() {
 4. ![](https://github.com/tinusaur/guides/blob/master/docs/images/Code-Sample02.JPG)
 
 The program starts running immediately after the upload is finished and the LED start rapidly blinking rapidly.
+
+
+**Note:** If the battery is installed and the battery jumper is connected, the program will continue running even if you disconnect the cable from the USB programmer.
+
+### To stop the program from running:
+1. Disconnect the cable from the USB programmer;
+2. Remove the battery jumper to disconnect the power from the battery;
