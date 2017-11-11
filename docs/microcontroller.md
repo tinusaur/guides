@@ -1,6 +1,9 @@
 ## Microcontroller
 
 Orientation of the component: **No**
+<!-- image-add -->
+<!-- unclear-reword: orientation -->
+<!-- terminology-edit: leads vs. pins -->
 ![](http://)
 To plug in the microcontrollerin the socket:
 1. (Optional) If the microcontroller leads do not fit in the socket, bend the leads very carefully.
