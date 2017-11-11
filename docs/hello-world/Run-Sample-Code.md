@@ -8,12 +8,14 @@ Prerequisites:
 
 1. Start the IDE.
 2. Copy the follwing code to the IDE editor: 
+```
 >void setup() {
 }
 void loop() {
 }
+```
 3. Click the **Upload** button to compile and run the code.
-![](https://github.com/tinusaur/guides/blob/master/docs/hello-world/images/Code-Sample01.JPG)
+![](https://github.com/tinusaur/guides/blob/master/docs/images/Code-Sample01.JPG)
 
 Note: This process should finish without any errors. The program does not do anything
 
@@ -26,6 +28,7 @@ Prerequisites:
 
 1. Start the IDE.
 2. Copy the follwing code to the IDE editor: 
+```
 >int led = PB0;
 void setup() {
     pinMode(led, OUTPUT);    // Set the LED port as output
@@ -36,7 +39,8 @@ void loop() {
     digitalWrite(led, LOW);  // turn the LED off
     delay(200);              // wait for a while
 }
+```
 3. Click the **Upload** button to compile and run the code.
-![](https://github.com/tinusaur/guides/blob/master/docs/hello-world/images/Code-Sample02.JPG)
+4. ![](https://github.com/tinusaur/guides/blob/master/docs/images/Code-Sample02.JPG)
 
 The program starts running immediately after the upload is finished and the LED start rapidly blinking rapidly.
