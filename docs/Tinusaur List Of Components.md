@@ -1,4 +1,6 @@
 # List of components
+<!-- add-image: tbd - one with all, one for each -->
+<!-- add-content: short description for each component-->
 
 ## Main Board Package
 
@@ -18,10 +20,11 @@
 
 
 ## Usb Controller
+<!-- terminology-edit: programmer vs. controller -->
 
 Use the USB 2.0 Controller to connect the Tinusaur board to a PC or a Mac for testing and programming the main board.
 
-
+<!-- structure-edit: move specific project packages to separate files -->
 ## Blinking LED Project Package
 
 1. Shield, PCB - Shield LEDx2 PCB
