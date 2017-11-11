@@ -1,4 +1,4 @@
-#Powering the Tinosaur Board
+# Powering the Tinosaur Board
 You connect the Tinosaur board to a computer using a USBasp cable. Before connecting the board to the computer, make sure to remove the battery from the battery holder. The USBasp cable supplies power to the board, and if you leave the battery connected, the battery overcharges. 
 
 **WARNING:** Overcharging the battery is dangerous. 
