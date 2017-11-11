@@ -21,7 +21,9 @@ Arduino is an open-source electronics platform based on easy-to-use hardware and
 
 
 ###Adding Support for the Tinusaur Boards
+Add the Tinusaur PCB to the Arduino environment. 
 
+######Procedure:
 1. In the Arduino IDE, select **File > Preferences**, and click the **Additional Boards Manager URLs** text box.
 The Additional Boards Manager URLs dialog box opens.
 3. Enter the following URL to add the Tinusaur board to the Arduino IDE, and click OK:
@@ -39,11 +41,16 @@ https://github.com/tinusaur/guides/blob/master/docs/hello-world/images/201603311
 7. Click **Install**, and close the window when the installation completes. 
 You completed installing the Arduino IDE on you Windows system.
 
-###Setup the Arduino for the Tinusaur Board
+#######What to do next
+Setup the Arduino for the Tinusaur Board
 
+
+###Setup the Arduino for the Tinusaur Board
+To ensure the Tinusaur board works correctly with Arduino, select the correct components for the Tinusaur board.
+
+######Procedure:
 1. In the Arduino IDE, select **Tools > Board:...**, select the **Tinusaur** board from the bottom of the boards list.
 <!--Arduino IDE Tinusaur Board-->
-2. Verify the correct components for the Tinusaur board are selected.
 3. From **Tools > Processor:...**, select the CPU type of the Tinusaur board.
 If you do not know the processor of your board, select **ATtiny85**.
 <!--Arduino IDE Tinusaur Board CPU-->
@@ -56,4 +63,6 @@ If you do not know the programmer, select **USBasp**.
 <!--Arduino IDE Tinusaur Board USBasp-->
 You completed the setup of the Arduino IDE for the Tinusaur Board.
 
+#######What to do next
+?????
 Enjoy!
