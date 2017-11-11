@@ -26,6 +26,7 @@ The Additional Boards Manager URLs dialog box opens.
 3. Enter the following URL to add the Tinusaur board to the Arduino IDE, and click OK:
 https://bitbucket.org/tinusaur/arduino-ide-boards/raw/default/package_tinusaur_attiny_index.json
 **INFO:** You can add multiple URLs by separating them on a new line.
+https://github.com/tinusaur/guides/blob/master/docs/hello-world/images/201603311827_setupboards_05_c700x700_cropped.png
 4. Click **OK** to close the Preferences wizard.
 <!-- pic Arduino IDE adding board URL -->
 5. In the Arduino IDE, select **Tools > Board:_board_name_here > Boards Manager**.
@@ -33,6 +34,7 @@ The Arduino IDE Boards Manager dialog box that contains information about the bo
 <!-- pic Arduino IDE Boards Manager -->
 6. From the **Type** drop-down menu, select **Contributed**, and select **Tinusaur Boards**.
 <!--Arduino IDE Contributed Boards-->
+https://github.com/tinusaur/guides/blob/master/docs/hello-world/images/201603311827_setupboards_10_c700x644.png
 7. Click **Install**, and close the window when the installation completes. 
 You completed installing the Arduino IDE on you Windows system.
 
@@ -44,6 +46,7 @@ You completed installing the Arduino IDE on you Windows system.
 3. From **Tools > Processor:...**, select the CPU type of the Tinusaur board.
 If you do not know the processor of your board, select **ATtiny85**.
 <!--Arduino IDE Tinusaur Board CPU-->
+https://github.com/tinusaur/guides/blob/master/docs/hello-world/images/201603311827_setupboards_18_c700x640.png
 4. From **Tools > Clock:...**, select the CPU frequency.
 If you do not know the ferquency of the processor, select **1 MHz**.
 <!--Arduino IDE Tinusaur Board Frequency-->
