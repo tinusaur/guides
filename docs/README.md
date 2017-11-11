@@ -1,6 +1,6 @@
 The Tinusaur Project Guides Repository
 
-##Open questions
+## Open questions
 
 1. How to organize the output:
 - HTML - one topic per screen or all steps in one HTML topic (but if we use too many photos, users may have to scroll too much)
