@@ -41,7 +41,7 @@ void loop() {
 }
 ```
 3. Click the **Upload** button to compile and run the code.
-![](https://github.com/tinusaur/guides/blob/master/docs/images/Code-Sample02.JPG)
+![](https://github.com/tinusaur/guides/blob/master/docs/images/Code-Sample01.JPG)
 
 The program starts running immediately after the upload is finished and the LED start rapidly blinking rapidly.
 
