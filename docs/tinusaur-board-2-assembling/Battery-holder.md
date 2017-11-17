@@ -1,6 +1,6 @@
 ## Battery Holder
 
-Does orientation matter?: **Yes**
+Does orientation matter: **Yes**
 
 ![Battery Holder](https://github.com/tinusaur/guides/blob/master/docs/images/Battery%20Holder.jpg)
 <!-- image-edit: annotate, callouts where needed to explain which is which -->
