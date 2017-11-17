@@ -1,4 +1,4 @@
-## Inserting the Reset Button on the Printed Circuit Board (PCB)
+## Reset Button on the Printed Circuit Board (PCB)
 
 Orientation of the Reset button on the PCB: Yes
 <!-- unclear-reword: orientation is a usability recommendation -->
