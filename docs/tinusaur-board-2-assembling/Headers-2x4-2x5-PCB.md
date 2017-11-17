@@ -1,4 +1,4 @@
-## Inserting the Headers on the Printed Circuit Board (PCB)
+## Headers 2x4 and 2x5 on the Printed Circuit Board (PCB)
 
 Orientation of the headers on the PCB: No
 <!-- unclear-reword: orientation -->
