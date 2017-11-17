@@ -1,4 +1,4 @@
-## Inserting the Socket on the Printed Circuit Board (PCB)
+## Socket on the Printed Circuit Board (PCB)
 
 Orientation of the socket on the PCB: Yes
 ![](https://github.com/tinusaur/guides/blob/master/docs/images/Socket.jpg)
