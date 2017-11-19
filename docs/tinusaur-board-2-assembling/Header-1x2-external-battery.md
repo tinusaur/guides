@@ -1,8 +1,8 @@
-## Header 1×2, Female, for external battery
-<!-- image-add: before and after -->
+# Header 1×2, Female, for external battery
 
-Is a specific direction required on the PCB (Printed Circuit Board): No
-<!-- acronyms-consider: PCB -->
+Does orientation matter: No
+
+*image placeholder*
 
 1. Position the smallest header on the front side of the PCB.
 2. Insert the leads through the holes and flip the PCB upside down.
