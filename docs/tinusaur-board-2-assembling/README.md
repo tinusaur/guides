@@ -18,6 +18,14 @@ in step 2: image-add: sanding specifics
 ### Capacitor-100nf.md
 image-add: capacitor img
 
+### Header-1x2-external-battery.md
+
+image-add: before and after
+
+### Header-1x2-internal-battery.md
+
+image-add
+
 ### Notes for all files:
 - acronyms-consider: all acronyms must be explained at the first place they appear
 - structure-consider: see where the orientation/positioning tips appear on the required places, i.e. at the beginning of every procedure
