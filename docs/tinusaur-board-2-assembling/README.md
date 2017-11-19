@@ -29,10 +29,21 @@ image-add
 ### Headers-2x4-2x5-pcb.md
 imade-edit: position/rotate pcb in the images in the same direction
 
+### Identifying-value-resistors.md
+https://github.com/tinusaur/guides/blob/master/docs/images/resistor_scheme.jpg
+image-edit: redraw (copyright)
+
+https://github.com/tinusaur/guides/blob/master/docs/images/board_scheme_marked.jpg
+structure-edit: move the sample drawing to resistor soldering topic
+
+### Microcontroller.md
+image-add
+
 ### Notes for all files:
 - acronyms-consider: all acronyms must be explained at the first place they appear
 - structure-consider: see where the orientation/positioning tips appear on the required places, i.e. at the beginning of every procedure
 - structure-consider: try to balance photos and diagrams (check that they don't get repetative or too many)
 - terminology-use:  use the slot IDs from the board in the instruction steps to identify where to insert components, for example SW1 for the reset button instead of "right side of the PCB".
 - writing-consider: what level of detail to use for the description of each component (what does it do or more)
+- terminology-edit: lead vs. leg, track vs. path
 
