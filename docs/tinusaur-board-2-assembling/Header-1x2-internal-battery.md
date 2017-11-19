@@ -1,4 +1,4 @@
-## Header 1×2, male, for internal battery 
+# Header 1×2, male, for internal battery 
 
 Does orientation matter: No
 
