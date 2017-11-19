@@ -10,7 +10,7 @@ Photos in procedures with build up of components; the component you assemble is 
 
 ### Battery-holder.md
 Orientation images:
-- image-edit: Battery.holder.jpg - save as .png; annotate, call-outs where needed to explain which is which for the correct orientation
+- image-edit: Battery.holder.jpg - save as .png; annotate, call-outs where needed to explain which is which for the correct orientation - https://github.com/tinusaur/guides/blob/master/docs/images/Battery-holder.jpg
 - image-add: before soldering, separate images of the battery holder and the board, so that it is clear where the plus and the minus are
 
 in step 2: image-add: sanding specifics
