@@ -5,7 +5,7 @@ Does orientation matter: No
 *image placeholder*
 
 
-1. Position the header on the Printed Circuit Board (PCB).
+1. Position the header on the printed circuit board (PCB).
 
 2. To prevent the header from melting during soldering, place the cap on the header.
 
