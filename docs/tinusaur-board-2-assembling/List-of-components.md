@@ -6,7 +6,7 @@
 
 1. Tinusaur printed circuit board (PCB)
 
-A board made of non-conductive material on which you mount and solder the components to connect them together, so that they form a working circuit. The Tinusaur PCB is designed to do specific jobs. The design of the PCB is represented in a schema that you can use to identify where to mount each component. Look for the schema card in your Tinusaur box.
+A board made of non-conductive material on which you mount and solder the components to connect them together, so that they form a working circuit. The Tinusaur PCB is designed to do specific jobs. The design of the PCB is described in a schema that you can use to identify where to mount each component. Look for the schema card in your Tinusaur box.
 
 <!--image-add: a photo of the board-->
 
