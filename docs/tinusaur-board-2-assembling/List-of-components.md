@@ -1,10 +1,10 @@
 # List of components
-<!-- add-image: tbd - one with all, one for each -->
+
 <!-- add-content: short description for each component-->
 
-## Main Board Package
+## Main Board Bag
 
-1. PCB - Tinusaur PCB
+1. Printed circuit board (PCB) - Tinusaur PCB
 2. Socket, DIP-8 - DIP-8 socket for MCU
 3. MCU, Attiny85 - Atmel AVR ATtiny85 microcontroller
 4. H1, Header - Header 2×4, Female
@@ -21,7 +21,6 @@
 15. Battery 3V - Battery 3V, CR2032
 
 
-## Usb Controller
-<!-- terminology-edit: programmer vs. controller -->
+## Usb Programmer
 
-Use the USB 2.0 Controller to connect the Tinusaur board to a PC or a Mac for testing and programming the main board.
+Use the USB 2.0 programmer to connect the Tinusaur PCB to a PC or a Mac for testing and programming the main board.
