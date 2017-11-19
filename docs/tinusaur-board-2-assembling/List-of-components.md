@@ -5,16 +5,19 @@
 ## Main Board Bag
 
 1. Tinusaur printed circuit board (PCB)
+
 A board made of non-conductive material on which you mount and solder the components to connect them together, so that they form a working circuit. The Tinusaur PCB is designed to do specific jobs. The design of the PCB is represented in a schema that you can use to identify where to mount each component. Look for the schema card in your Tinusaur box.
 
 <!--image-add: a photo of the board-->
 
 2. Socket, DIP-8
+
 A socket is the placeholder for the microcontroller (MCU) that connects it to the board. Because an MCU is sensitive to heat and could be damaged during smoldering, the socket makes it easy to plug the MCU in and out. DIP stands for "Dual Inline Package", which is an integrated circuit package with two rows of pins. 8 is the number of the pins.
 
 <!--image: a photo of the socket-->
 
 3. MCU, ATtiny85
+
 The Atmel AVR ATtiny85 microcontroller (MCU) belongs to a family of MCUs that you can program to do specific tasks. Think of it as the brain of the operation that can get a light-emitting diode (LED) to turn on and off.
 
 <!--image: a photo of the microcontroller-->
