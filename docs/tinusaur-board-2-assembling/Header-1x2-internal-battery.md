@@ -1,17 +1,15 @@
-## Header 1×2, Male, for internal battery on/off 
-<!-- img-add -->
+## Header 1×2, male, for internal battery 
+
+Does orientation matter: No
+
+*image placeholder*
 
 
-Is a specific direction required on the PCB (Printed Circuit Board): No
-<!-- acronyms-consider -->
+1. Position the header on the Printed Circuit Board (PCB).
 
+2. To prevent the header from melting during soldering, place the cap on the header.
 
-1. Position the header on the PCB.
-
-2. Place the cap on top of the header. It prevents the header from shifting while soldering.
-<!-- unclear-reword: shifting and melting -->
-
-Note: The color of the header can vary but it does not define its functionality or characteristics.
+Note: The color of the header does not indicate what characteristics the header has.
 
 3. Flip the PCB upside down.
 
