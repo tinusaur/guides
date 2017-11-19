@@ -1,10 +1,10 @@
-# Reset Button on the Printed Circuit Board (PCB)
+# Reset Button
 
 Does orientation matter: Yes
 
 ![Reset Button](https://github.com/tinusaur/guides/blob/master/docs/images/reset%20button.jpg)
 
-Cut the lower part of the leads if they are too thick to go through the PCB holes.
+Cut the lower part of the leads if they are too thick to go through the printed circuit board (PCB) holes.
 
 To insert the Reset button into the PCB:
 
