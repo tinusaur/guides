@@ -2,9 +2,9 @@
 
 Does orientation matter: **Yes**
 
-![Battery Holder](https://github.com/tinusaur/guides/blob/master/docs/images/Battery-holder.jpg)
-
 Check the spring of the battery holder and make sure it fits in the holder properly.
+
+![Battery Holder](https://github.com/tinusaur/guides/blob/master/docs/images/Battery-holder.jpg)
 
 To mount the battery holder:
 
