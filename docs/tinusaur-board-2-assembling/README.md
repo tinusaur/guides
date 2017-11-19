@@ -15,7 +15,7 @@ Orientation images:
 
 in step 2: image-add: sanding specifics
 
-### Capacitor
+### Capacitor-100nf.md
 image-add: capacitor img
 
 ### Notes for all files:
