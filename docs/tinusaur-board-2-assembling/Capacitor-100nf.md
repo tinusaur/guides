@@ -1,4 +1,4 @@
-## Capacitor 100nF
+# Capacitor 100nF
 
 Does orientation matter: No, but it helps.
 
