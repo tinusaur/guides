@@ -6,4 +6,5 @@ This repository contains the source files for:
 Naming conventions for the source files:
 
 .md files: Title-of-topic.md
+
 image files: componentName-value-context.png
