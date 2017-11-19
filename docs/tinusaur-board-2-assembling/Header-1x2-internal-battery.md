@@ -9,7 +9,7 @@ Does orientation matter: No
 
 2. To prevent the header from melting during soldering, place the cap on the header.
 
-Note: The color of the header does not indicate what characteristics the header has.
+**Note:** The color of the header does not indicate what characteristics the header has.
 
 3. Flip the PCB upside down.
 
