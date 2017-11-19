@@ -2,7 +2,7 @@
 
 Does orientation matter: Yes
 
-1. Insert the leads of the electrolytic capacitor into the C1 plus and minus holes on the Printed Circuit Board (PCB) front side.
+1. Insert the leads of the electrolytic capacitor into the C1 plus and minus holes on the printed circuit board (PCB) front side.
 
 **Note:** The negative lead of the electrolytic capacitor is marked with a white line on the cylinder, and is the shorter of the two pins of the electrolytic capacitor.
 
