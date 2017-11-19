@@ -1,4 +1,4 @@
-## Battery Holder
+# Battery Holder
 
 Does orientation matter: **Yes**
 
