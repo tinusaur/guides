@@ -2,7 +2,7 @@
 
 Does orientation matter: Yes
 
-1. Orient the male shrouded header with the cut-out side facing the center of the Printed Circuit Board (PCB), and insert the pins into the ISP1 holes on the PCB front side.
+1. Orient the male shrouded header with the cut-out side facing the center of the printed circuit board (PCB), and insert the pins into the ISP1 holes on the PCB front side.
 
 ![Header 2x5 Male Shrouded](https://github.com/tinusaur/guides/blob/master/docs/images/8_male_header_shrouded.jpg)
 
