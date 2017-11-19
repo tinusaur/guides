@@ -39,6 +39,10 @@ structure-edit: move the sample drawing to resistor soldering topic
 ### Microcontroller.md
 image-add
 
+### List-of-components.md
+image-add: add an image for each component
+
+
 ### Notes for all files:
 - acronyms-consider: all acronyms must be explained at the first place they appear
 - structure-consider: see where the orientation/positioning tips appear on the required places, i.e. at the beginning of every procedure
