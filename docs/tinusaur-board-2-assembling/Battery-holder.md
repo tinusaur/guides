@@ -2,7 +2,7 @@
 
 Does orientation matter: **Yes**
 
-![Battery Holder](https://github.com/tinusaur/guides/blob/master/docs/images/Battery%20Holder.jpg)
+![Battery Holder](https://github.com/tinusaur/guides/blob/master/docs/images/Battery%20holder.jpg)
 
 Check the spring of the battery holder and make sure it fits in the holder properly.
 
