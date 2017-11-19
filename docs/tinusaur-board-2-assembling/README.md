@@ -26,6 +26,9 @@ image-add: before and after
 
 image-add
 
+### Headers-2x4-2x5-pcb.md
+imade-edit: position/rotate pcb in the images in the same direction
+
 ### Notes for all files:
 - acronyms-consider: all acronyms must be explained at the first place they appear
 - structure-consider: see where the orientation/positioning tips appear on the required places, i.e. at the beginning of every procedure
