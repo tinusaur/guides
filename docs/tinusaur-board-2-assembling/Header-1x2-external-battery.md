@@ -1,4 +1,4 @@
-# Header 1×2, Female, for external battery
+# Header 1×2, female, for external battery
 
 Does orientation matter: No
 
