@@ -10,7 +10,7 @@ To mount the battery holder:
 
 1. Flip the PCB upside down.
 2. Sand the solders to make them equal in hеight.
-3. Insert the leads of the battery holder.
+3. Insert the leads of the battery holder in place.
 4. Solder the leads on the front side of the PCB. Put more solder wire than usual.
 
 
