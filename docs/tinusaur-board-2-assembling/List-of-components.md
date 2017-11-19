@@ -21,6 +21,6 @@
 15. Battery 3V - Battery 3V, CR2032
 
 
-## Usb Programmer
+## USB Programmer
 
 Use the USB 2.0 programmer to connect the Tinusaur PCB to a PC or a Mac for testing and programming the main board.
