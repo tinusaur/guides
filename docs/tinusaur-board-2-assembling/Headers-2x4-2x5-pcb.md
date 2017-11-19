@@ -1,13 +1,12 @@
-## Headers 2x4 and 2x5 on the Printed Circuit Board (PCB)
+# Headers 2x4, 2x5
 
-Orientation of the headers on the PCB: No
-<!-- unclear-reword: orientation -->
+Does orientation matter: No
 
-![](https://github.com/tinusaur/guides/blob/master/docs/images/headers.jpg)
+![Headers](https://github.com/tinusaur/guides/blob/master/docs/images/headers.jpg)
 
-To insert the **2x4** and **2x5** headers on the PCB:
+To insert the 2x4 and 2x5 headers on the Printed Circuit Board (PCB):
 
-1. Position the **2x4** and **2x5** headers on the front side of the PCB.
-<!-- content-add: position/rotate pcb -->
-2. Solder the **2x4** and **2x5** headers on the back side of the PCB.
+1. Position the 2x4 and 2x5 headers on the front side of the PCB.
+
+2. Solder the 2x4 and 2x5 headers on the back side of the PCB.
 
