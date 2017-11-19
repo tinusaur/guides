@@ -14,4 +14,4 @@ To mount the battery holder:
 4. Solder the leads on the front side of the PCB. Put more solder wire than usual.
 
 
-**Caution**: This solder is the most challenging one. You must be very careful to not touch the elecrolytic capacitor with the soldering iron.
+**Caution**: This solder is the most challenging one. Be very careful not to touch the elecrolytic capacitor with the soldering iron.
