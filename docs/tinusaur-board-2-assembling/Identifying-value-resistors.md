@@ -6,7 +6,7 @@ To identify the value of a resistor (measured in ohms), use the following color-
 
 ![Resistor Scheme](https://github.com/tinusaur/guides/blob/master/docs/images/resistor_scheme.jpg)
 
-Using this color scheme, you can determine the value of the resistors in the Tinosaur kit. After identifying the resistors based on their value, you can consult the Printed Circuit Board (PBC) scheme to place the resistors in the correct location.
+Using this color scheme, you can determine the value of the resistors in the Tinosaur kit. After identifying the resistors based on their value, you can consult the printed circuit board (PBC) scheme to place the resistors in the correct location.
 <!-- content-add: info about both resistors -->
 
 Example
