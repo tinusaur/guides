@@ -2,7 +2,9 @@ Tinusaur Board 2 - Assembling Guide
 
 # Structure of the guide
 
-## Placeholders for images in each file
+placeholder
+
+# Images in each file
 
 ### Battery-holder.md
 Orientation images:
