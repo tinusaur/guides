@@ -2,7 +2,7 @@
 Does orientation matter: Yes
 
 1. Bend the leads of the resistor to form right angles.
-2. Insert the leads of the resistor into the R1 holes on the PCB front side. 
+2. Insert the leads of the resistor into the R1 holes on the printed circuit board (PCB) front side. 
 3. Pull the leads down so that the resistor fits tightly on the PCB front side.
 
 ![Resistor](https://github.com/tinusaur/guides/blob/master/docs/images/3_resistor.jpg)
