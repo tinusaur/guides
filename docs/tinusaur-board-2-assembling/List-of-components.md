@@ -2,7 +2,7 @@
 
 
 ## Main Board Bag
-<!-- tsvety: I suggest adding this intro sentence, and of course making sure it's correct: "The components are listed in the order, in which they are assembled."-->
+The components are listed in the order, in which they are assembled.
 
 ### 1. Tinusaur printed circuit board (PCB)
 
