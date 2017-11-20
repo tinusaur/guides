@@ -36,10 +36,6 @@ A resistor is an electrical component that limits or regulates the flow of elect
 
 The power rate of the resistor is 1/8W (watts), meaning that it can handle this much electricity power before it overheats.
 
-The resistor is usually marked on the PCB schema as follows:
-
-![Board Scheme](https://github.com/tinusaur/guides/blob/master/docs/images/board_scheme_marked.jpg)
-
 ### 7. C2, Electrolytic capacitor
 
 A capacitor gets charged with electricity from the circuit and can discharge that electricity in quick outbursts as required. This capacitor can store 100uF (nanofarads) of electricity. It is 5×5 mm in size, with low profile (not too thick).
