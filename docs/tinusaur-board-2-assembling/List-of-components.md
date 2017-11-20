@@ -12,13 +12,13 @@ A board made of non-conductive material on which you mount and solder the compon
 
 2. Socket, DIP-8
 
-A socket is a placeholder for the microcontroller (MCU) that connects the MCU to the board. Because the MCU is sensitive to heat and could be damaged during smoldering, the socket makes it easy to plug the MCU in and out. DIP stands for "Dual Inline Package", which is an integrated circuit package with two rows of pins. 8 is the number of the pins.
+A socket is a placeholder for the microcontroller (MCU) that connects the MCU to the board. Because the MCU is sensitive to heat and could get damaged during smoldering, the socket makes it easy to plug the MCU in and out. DIP stands for "Dual Inline Package", which is an integrated circuit package with two rows of pins. 8 is the number of the pins.
 
 <!--image: a photo of the socket-->
 
 3. MCU, ATtiny85
 
-The Atmel AVR ATtiny85 microcontroller (MCU) belongs to a family of MCUs that you can program to do specific tasks. Think of it as the brain of the operation that can get a light-emitting diode (LED) to turn on and off.
+"Atmel AVR ATtiny85" is the "family name" of the microcontroller (MCU) that you connect to the Tinusaur PCB and program to do specific tasks. Think of it as the brain of the operation that can get a light-emitting diode (LED) to turn on and off.
 
 <!--image: a photo of the microcontroller-->
 
