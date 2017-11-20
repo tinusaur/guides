@@ -2,7 +2,7 @@ Tinusaur Board 2 - Assembling Guide
 
 # Structure of the guide
 
-Flat structure (all topics are top level):
+**Flat structure (all topics are top level):**
 
 What is Tinusaur?
 
@@ -38,7 +38,7 @@ Reset Button
 
 Microcontroller
 
-or one level of topic nesting:
+**or one level of topic nesting**
 
 What is Tinusaur
 
