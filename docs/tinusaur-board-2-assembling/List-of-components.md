@@ -69,17 +69,17 @@ A battery jumper turns on the internal battery, when you cover both pins of the 
 A rectangular connector with 2 rows of 5 pins, to which you connect the ISP/USBasp cable. This header is shrouded (with a plastic box around the pins) and has a notch key (small opening on one of the sides) to prevent you from placing the header the wrong way around.
 <!--image-add: a photo of the header-->
 
-### 13. Battery holder - Battery holder for CR2032 battery
+### 13. Battery holder
 
 A holder, in which to insert a CR2032 battery.
 <!--image-add: a photo of the holder-->
 
-### 14. RESET, Button - Tactile push button, for RESET
+### 14. RESET button
 
 A push button for resetting the PCB board.
 <!--image-add: a photo of the button-->
 
-### 15. Battery 3V - Battery 3V, CR2032
+### 15. Battery 3V
 
 A CR2032 battery of 3V that is the internal power source for the Tinusaur PCB.
 <!--image-add: a photo of the battery-->
