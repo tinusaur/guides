@@ -5,29 +5,47 @@ Tinusaur Board 2 - Assembling Guide
 Flat structure (all topics are top level):
 
 What is Tinusaur?
+
 Before You Begin
+
 Soldering for Beginners
+
 Identifying the Value of a Resistor
+
 List of Components
+
 Socket
+
 Headers 2×4, 2x5
+
 Resistor
+
 Electrolytic Capacitor
+
 Capacitor 100nF
+
 Header 1×2, female, for external battery
+
 Header 1×2, male, for internal battery (Jumper, 2-pin - mentioned in this topic)
+
 Header 2x5, male, shrouded for ISP/USBasp
+
 Checking Your Solders
+
 Battery Holder
+
 Reset Button
+
 Microcontroller
 
 or one level of topic nesting:
 
 What is Tinusaur
+
 Before You Begin
  - Soldering for Beginners
  - Identifying the Value of a Resistor
+ 
 List of Components
  - Socket
  - Headers 2×4, 2x5
