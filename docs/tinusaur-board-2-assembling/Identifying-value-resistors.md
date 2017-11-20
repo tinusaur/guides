@@ -21,7 +21,3 @@ The value is calculated as follows:
 * The third band is orange, which represents the number of zeros at the end - in this case 3
 The total value of the capacitor is 10 000 ohms.
 * The golden band represents the tolerance of the capacitor value.
-
-Our example resistor of 10 000 (10K) ohms is usually marked on the PCB scheme as shown on the following picture:
-
-![Board Scheme](https://github.com/tinusaur/guides/blob/master/docs/images/board_scheme_marked.jpg)
