@@ -1,33 +1,42 @@
 # List of components
 
-<!-- add-content: short description for each component-->
 
 ## Main Board Bag
 
 1. Tinusaur printed circuit board (PCB)
 
 A board made of non-conductive material on which you mount and solder the components to connect them together, so that they form a working circuit. The Tinusaur PCB is designed to do specific jobs. The design of the PCB is described in a schema that you can use to identify where to mount each component. Look for the schema card in your Tinusaur box.
-
 <!--image-add: a photo of the board-->
 
 2. Socket, DIP-8
 
 A socket is a placeholder for the microcontroller (MCU) that connects the MCU to the board. Because the MCU is sensitive to heat and could get damaged during smoldering, the socket makes it easy to plug the MCU in and out. DIP stands for "Dual Inline Package", which is an integrated circuit package with two rows of pins. 8 is the number of the pins.
-
-<!--image: a photo of the socket-->
+<!--image-add: a photo of the socket-->
 
 3. MCU, ATtiny85
 
 "Atmel AVR ATtiny85" is the "family name" of the microcontroller (MCU) that you connect to the Tinusaur PCB and program to do specific tasks. Think of it as the brain of the operation that can get a light-emitting diode (LED) to turn on and off.
-
-<!--image: a photo of the microcontroller-->
+<!--image-add: a photo of the microcontroller-->
 
 4. H1, Header, 2×4, female
-	 A rectangular connector with 2 rows of 4 holes.
+
+A rectangular connector with 2 rows of 4 holes.
+<!--image-add: a photo of the header-->
+
+5. H2, Header, 2×5, female
+
+A rectangular connector with 2 rows of 5 holes.
+<!--image-add: a photo of the header-->
+
+6. R1, Resistor
+
+A resistor is an electrical component that limits or regulates the flow of electrical current in the internal circuit. This resistor is small and its value is 10k (10,000) ohms. See "Identifying the Value of a Resistor".
+<!--image-add: a photo of the resistor-->
+
+The power rate of the resistor is 1/8W (watts), meaning that it can handle this much electricity power before it overheats.
+The resistor is usually marked on the PCB schema as follows:
 
 
-5. H2, Header - Header 2×5, Female
-6. R1, Resistor - Resistor 10K, Small, 1/8W
 7. C2, Capacitor - Capacitor 100uF, Low profile 5×5 mm
 8. C1, Capacitor - Capacitor 100nF, Small
 9. Power, Header - Header 1×2, Female, for external power
