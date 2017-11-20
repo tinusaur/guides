@@ -22,7 +22,10 @@ A socket is a placeholder for the microcontroller (MCU) that connects the MCU to
 
 <!--image: a photo of the microcontroller-->
 
-4. H1, Header - Header 2×4, Female
+4. H1, Header, 2×4, female
+	 A rectangular connector with 2 rows of 4 holes.
+
+
 5. H2, Header - Header 2×5, Female
 6. R1, Resistor - Resistor 10K, Small, 1/8W
 7. C2, Capacitor - Capacitor 100uF, Low profile 5×5 mm
