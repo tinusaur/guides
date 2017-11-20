@@ -7,7 +7,7 @@ Does orientation matter: No
 
 1. Position the header on the printed circuit board (PCB).
 
-2. To prevent the header from melting during soldering, place the cap on the header.
+2. To prevent the header from melting during soldering, place the cap (the battery jumper) on the header.
 
 **Note:** The color of the header does not indicate what characteristics the header has.
 
