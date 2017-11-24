@@ -1,6 +1,6 @@
 
-The Tinusaur Project Guides Repository
+The Tinusaur Project - Guides Repository
 
-The dics are located at [https://tinusaur.github.io/](https://tinusaur.github.io/)
+The docs are located at: [https://tinusaur.github.io/](https://tinusaur.github.io/)
 
 
