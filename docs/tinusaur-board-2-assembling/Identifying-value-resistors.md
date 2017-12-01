@@ -18,6 +18,8 @@ Using the numbers and colors of the resistor bands, you determine the value of t
 The value is calculated as follows:
 * The first band is brown, which represents 1
 * The second band is black, which represents 0
-* The third band is orange, which represents the number of zeros at the end - in this case 3
+* The third band is orange, which represents the number of zeros at the end - in this case 3.
 The total value of the capacitor is 10 000 ohms.
 * The golden band represents the tolerance of the capacitor value.
+
+<!--consistency: will we say 10 000 or 10000 (2 places within this text), I even suggest 10,000-->
