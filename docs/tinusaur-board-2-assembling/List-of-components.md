@@ -28,6 +28,7 @@ A rectangular connector with 2 rows of 5 holes.
 ### 5. R1, Resistor
 
 A resistor is an electrical component that limits or regulates the flow of electrical current in the internal circuit. This resistor is small and its value is 10k (10,000) ohms. See [Identifying the Value of a Resistor](https://github.com/tinusaur/guides/blob/master/docs/tinusaur-board-2-assembling/Identifying-value-resistors.md).
+<!--what will be the rule for numbers - in the Resistor section the figures are 10 000 and 10000, I think 10,000 is best--> 
 
 The power rate of the resistor is 1/8W (watts), meaning that it can handle this much electricity power before it overheats.
 <!--image-add: a photo of the resistor-->
