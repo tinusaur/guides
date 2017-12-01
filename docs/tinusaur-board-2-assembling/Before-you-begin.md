@@ -2,7 +2,7 @@
 
 
 
-Assimbling the printed socket board (PCB) is a task that usually takes about an hour and a half to perform. 
+Assembling the printed socket board (PCB) is a task that usually takes about an hour and a half to perform. 
 
 
 
@@ -12,7 +12,7 @@ To ensure the assembly runs smooth and trouble-free, prepare in advance.
 
 ## The Tools
 
-Before you begin, make sure that you have the following tools at hand.
+Before you begin, make sure that you have the following tools at hand:
 
 * Soldering kit 
 
@@ -27,7 +27,7 @@ Before you begin, make sure that you have the following tools at hand.
 
 ## Tips and Tricks
 
-* The PCB usually has one or more tabs that are sticking out. Remove the tabs  with a shearcutter and sand the sides of the PCB.
+* The PCB usually has one or more tabs that are sticking out. Remove the tabs with a shearcutter and sand the sides of the PCB.
 
 * Always follow the instructions for positioning the components on the PCB. Some components have specific orientation and it is important that you observe the positioning rules.
 
