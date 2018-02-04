@@ -2,8 +2,7 @@
 
 Does orientation matter: No
 
-*image placeholder*
-
+<!--image of header-->
 
 1. Position the header on the printed circuit board (PCB).
 
@@ -13,7 +12,7 @@ Does orientation matter: No
 
 3. Flip the PCB upside down.
 
-4. Solder the header to the PCB.
+4. Solder the header onto the PCB.
 
 
 
