@@ -1,4 +1,4 @@
-# Configuring the Arduino IDE to Work with the Tinusaur Board
+# Configuring the Arduino IDE for the Tinusaur Board
 Select the components of the Tinusaur board to use in Arduino.
 1. In the Arduino IDE, select **Tools > Board:...**, and then from the boards list select **Tinusaur**.
 <!--Arduino IDE Tinusaur Board-->
