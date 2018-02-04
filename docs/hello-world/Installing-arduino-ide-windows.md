@@ -5,7 +5,7 @@ Arduino is an open-source electronics platform, based on easy-to-use hardware an
 
 ## Installing Arduino IDE
 
-1. Log on as Administrator. 
+1. Log on Windows as Administrator. 
 2. From the Arduino official website https://www.arduino.cc/en/Main/Software, download the Arduino IDE for your Windows version.
 3. Start the Arduino IDE.
 <!-- screenshot of Arduino IDE-->
@@ -15,10 +15,10 @@ Arduino is an open-source electronics platform, based on easy-to-use hardware an
 Add the Tinusaur printed circuit board (PCB) to the Arduino environment as follows. 
 
 1. In the Arduino IDE, select **File > Preferences**, and click **Additional Boards Manager URLs**.
-2. Enter the following URL to add the Tinusaur board to the Arduino IDE, and click OK:
+2. Enter the following URL to add the Tinusaur board to the Arduino IDE:
 https://bitbucket.org/tinusaur/arduino-ide-boards/raw/default/package_tinusaur_attiny_index.json
 **INFO:** You can add multiple URLs by separating them on a new line.
-https://github.com/tinusaur/guides/blob/master/docs/hello-world/images/201603311827_setupboards_05_c700x700_cropped.png
+(https://github.com/tinusaur/guides/blob/master/docs/hello-world/images/201603311827_setupboards_05_c700x700_cropped.png)
 3. Click **OK** to close the Preferences wizard.
 <!-- pic Arduino IDE adding board URL -->
 4. In the Arduino IDE, select **Tools > Board:_board_name_here > Boards Manager**.
