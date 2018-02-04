@@ -1,4 +1,4 @@
-# Verify That the USBasp Driver Is Installed Successfully
+# How to Check That the Driver is Installed Correctly 
 1. Open Device Manager.
 2. Verify that **USBasp** is displayed under **libusbK USB Devices**.
 
