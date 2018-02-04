@@ -5,6 +5,7 @@ Does orientation matter: Yes
 1. Orient the male shrouded header with the cut-out side facing the center of the printed circuit board (PCB), and insert the pins into the ISP1 holes on the PCB front side.
 
 ![Header 2x5 Male Shrouded](https://github.com/tinusaur/guides/blob/master/docs/images/8_male_header_shrouded.jpg)
+<!--this image is not correct - pcb cut-out should be facing inwards -->
 
 2. (Optional) Plug the ISP cable into the male shrouded header to prevent the pins from shifting. The pins could shift if plastic bits melt during the soldering.
 3. Turn the PCB on its backside.
