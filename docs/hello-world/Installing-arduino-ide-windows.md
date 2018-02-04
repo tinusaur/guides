@@ -31,7 +31,7 @@ https://bitbucket.org/tinusaur/arduino-ide-boards/raw/default/package_tinusaur_a
 6. Click **Install**.
 
 ## Setting up Arduino for the Tinusaur Board
-To ensure the Tinusaur board works correctly with Arduino, select the correct components for the Tinusaur board.
+Select the components of the Tinusaur board to use in Arduino IDE.
 1. In the Arduino IDE, select **Tools > Board:...**, and then **Tinusaur** at the bottom of the boards list.
 <!--Arduino IDE Tinusaur Board-->
 2. From **Tools > Processor:...**, select the CPU type of the Tinusaur board.    
