@@ -2,7 +2,7 @@
 
 Does orientation matter: No, but it helps.
 
-*image placeholder*
+<!--image of capacitor 100nF-->
 
 1. Position the yellow ceramic capacitor on the front side of the printed circuit board (PCB) with the text facing out.
 2. Insert the leads through the holes and flip the PCB upside down. Pull the leads down.
