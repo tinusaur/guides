@@ -1,6 +1,7 @@
 # Installing Arduino IDE on Windows 
 
-Arduino is an open-source electronics platform, based on easy-to-use hardware and software. It is intended for coding interactive projects. You can learn more about Arduino here [Learn More about Arduino](https://www.arduino.cc/en/Guide/Introduction)
+Arduino is an open-source electronics platform, based on easy-to-use hardware and software. It is intended for coding interactive projects.
+[Learn More](https://www.arduino.cc/en/Guide/Introduction)
 
 ## Installing Arduino IDE
 
