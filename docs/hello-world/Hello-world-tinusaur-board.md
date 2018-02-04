@@ -1,7 +1,7 @@
 # Writing Your First Tinusaur Program
 1. In the Arduino IDE, create a new file.
 
-2. On the first line of your file to declare a constant for the red LED on the Tinusaur board:
+2. On the first line of your file declare a constant for the red LED on the Tinusaur board:
 ```
 int LED_RED = 0;
 ```
@@ -11,7 +11,7 @@ This constant tells the program that the red LED is on pin 0. You will also use 
 ```
 int LED_GREEN = 1;
 ```
-This constant tells the program that the green LED, on pin 1.
+This constant tells the program that the green LED is on pin 1.
 
 4. Leave an empty line after the constant declarations, and on the next line write:
 ```
