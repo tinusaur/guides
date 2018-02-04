@@ -11,9 +11,8 @@ A board made of non-conductive material on which you mount and solder the compon
 
 ### 2. Socket, DIP-8
 
-A socket is a placeholder for the microcontroller (MCU) that connects the MCU to the board. Because the MCU is sensitive to heat and could get damaged during smoldering, the socket makes it easy to plug the MCU in and out. DIP stands for "Dual Inline Package", which is an integrated circuit package with two rows of pins. 8 is the number of the pins.
+A socket is a placeholder for the microcontroller (MCU) that connects the MCU to the board. Because the MCU is sensitive to heat and could get damaged during soldering, the socket makes it easy to plug the MCU in and out. DIP stands for "Dual Inline Package", which is an integrated circuit package with two rows of pins. 8 is the number of the pins.
 <!--image-add: a photo of the socket-->
-<!--second sentence - I think smoldering should be replaced by soldering-->
 
 ### 3. H1, Header, 2×4, female
 
