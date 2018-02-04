@@ -2,7 +2,7 @@
 
 Does orientation matter: No
 
-*image placeholder*
+<!--image of microcontroller-->
 
 To plug in the microcontroller in the socket:
 
