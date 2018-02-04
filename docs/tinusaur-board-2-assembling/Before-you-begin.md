@@ -10,7 +10,7 @@ To ensure the assembly runs smooth and trouble-free, prepare in advance.
 
 
 
-## The Tools
+## Tools
 
 Before you begin, make sure that you have the following tools at hand:
 
