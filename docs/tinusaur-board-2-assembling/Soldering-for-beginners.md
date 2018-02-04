@@ -8,9 +8,9 @@ The two soldering tools you need to get started are __soldering iron__ and __sol
 
 ### Additional Tools
 + Wire cutter: use to cut extra wire and pins/leads. If you do not have a wire cutter or you do not want to buy one, you can use a nail clipper.
-+ Solder pump and solder wick: you use these to undo a soldering mistake or remove a bad solder.
++ Solder pump and solder wick: use to undo a soldering mistake or remove a bad solder.
 + Tweezers: use tweezers to hold small components and avoid burning your fingers while soldering. 
-+ Wet sponge: use it to clean the tip of the soldering iron.
++ Wet sponge: use to clean the tip of the soldering iron.
 + Safety glasses
 + Solder fume extractor
 
