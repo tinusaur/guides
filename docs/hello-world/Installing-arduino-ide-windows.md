@@ -18,13 +18,15 @@ Add the Tinusaur printed circuit board (PCB) to the Arduino environment as follo
 2. Enter the following URL to add the Tinusaur board to the Arduino IDE:    
 https://bitbucket.org/tinusaur/arduino-ide-boards/raw/default/package_tinusaur_attiny_index.json   
 **INFO:** You can add multiple URLs by separating them on a new line.    
+
 ![](https://github.com/tinusaur/guides/blob/master/docs/hello-world/images/201603311827_setupboards_05_c700x700_cropped.png)
 3. Click **OK**.
 
 4. In the Arduino IDE, select **Tools > Board:_board_name_here > Boards Manager**.
 
 <!-- pic Arduino IDE Boards Manager -->
-5. From the **Type** drop-down menu, select **Contributed**, and then **Tinusaur Boards**.      
+5. From the **Type** drop-down menu, select **Contributed**, and then **Tinusaur Boards**.    
+
 ![](https://github.com/tinusaur/guides/blob/master/docs/hello-world/images/201603311827_setupboards_10_c700x644.png)
 6. Click **Install**.
 
@@ -32,13 +34,14 @@ https://bitbucket.org/tinusaur/arduino-ide-boards/raw/default/package_tinusaur_a
 To ensure the Tinusaur board works correctly with Arduino, select the correct components for the Tinusaur board.
 1. In the Arduino IDE, select **Tools > Board:...**, and then **Tinusaur** at the bottom of the boards list.
 <!--Arduino IDE Tinusaur Board-->
-3. From **Tools > Processor:...**, select the CPU type of the Tinusaur board.
+2. From **Tools > Processor:...**, select the CPU type of the Tinusaur board.    
 If you do not know the processor of your board, select **ATtiny85**.
 <!--Arduino IDE Tinusaur Board CPU-->      
-![](https://github.com/tinusaur/guides/blob/master/docs/hello-world/images/201603311827_setupboards_18_c700x640.png)
-4. From **Tools > Clock:...**, select the CPU frequency.
+
+![](https://github.com/tinusaur/guides/blob/master/docs/hello-world/images/201603311827_setupboards_18_c700x640.png)   
+3. From **Tools > Clock:...**, select the CPU frequency.   
 If you do not know the ferquency of the processor, select **1 MHz**.
 <!--Arduino IDE Tinusaur Board Frequency-->
-4. From **Tools > Programmer:...**, select the appropriate programmer.
+4. From **Tools > Programmer:...**, select the appropriate programmer.   
 If you do not know the programmer, select **USBasp**.
 <!--Arduino IDE Tinusaur Board USBasp-->
