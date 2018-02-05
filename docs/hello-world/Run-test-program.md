@@ -11,6 +11,7 @@ void loop() {
 }
 ```
 3. Click the **Upload** button to compile and run the code.
+
 ![](https://github.com/tinusaur/guides/blob/master/docs/images/Code-Sample01.JPG)
 
-Note: This process should finish without any errors. The program does nothing.
+**Note:** This process should finish without any errors. The program does nothing.
