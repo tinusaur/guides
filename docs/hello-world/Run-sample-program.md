@@ -2,12 +2,10 @@
 
 ## Run a Test Program 
 
-Prerequisites: 
-+ The USB programmer must be plugged in a USB port on your computer.
-+ The board must be connected to the USB programmer.
-
-1. Start the IDE.
-2. Copy the follwing code to the IDE editor: 
+1. Plug the USB programmer in a USB port on your computer.
+2. Connect the Tinusaur board to the USB programmer.
+3. Start the Arduino IDE.
+4. Copy the follwing code into the Arduino IDE editor: 
 ```
 >void setup() {
 }
@@ -17,8 +15,7 @@ void loop() {
 3. Click the **Upload** button to compile and run the code.
 ![](https://github.com/tinusaur/guides/blob/master/docs/images/Code-Sample01.JPG)
 
-Note: This process should finish without any errors. The program does not do anything
-
+Note: This process should finish without any errors. The program does nothing.
 ## Run a Blinking LED Program
 
 Prerequisites: 
