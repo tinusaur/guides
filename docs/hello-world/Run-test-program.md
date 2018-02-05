@@ -1,6 +1,4 @@
-# Run a Sample Program
-
-## Run a Test Program 
+# Run a Test Program 
 
 1. Plug the USB programmer in a USB port on your computer.
 2. Connect the Tinusaur board to the USB programmer.
