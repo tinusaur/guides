@@ -16,6 +16,7 @@ void loop() {
     delay(200);              // wait for a while
 }
 ```
+
 3. Click the **Upload** button to compile and run the code.
 
 ![](https://github.com/tinusaur/guides/blob/master/docs/hello-world/images/Code-Sample02.JPG)
