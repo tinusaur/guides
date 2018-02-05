@@ -20,5 +20,5 @@ void loop() {
 
 ![](https://github.com/tinusaur/guides/blob/master/docs/hello-world/images/Code-Sample02.JPG)
 
-The program starts running immediately after the upload is finished, which causes the LED to start blinking rapidly.
-See also [](https://github.com/tinusaur/guides/blob/master/docs/hello-world/saving-internal-battery.md)
+The program starts running immediately after the upload is finished, which causes the LED to start blinking rapidly.   
+See also [Saving the Tinusaur Board Internal Battery](https://github.com/tinusaur/guides/blob/master/docs/hello-world/saving-internal-battery.md)
