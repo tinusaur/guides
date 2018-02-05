@@ -1,5 +1,4 @@
-# Run Blinking LED Program
-
+# Run Blinking Leds Program
 1. Plug the USB programmer into a USB port on your computer.
 2. Connect the Tinusaur board to the USB programmer.
 3. On the Tinusaur board, connect a LED to PB0 with a 330 ohm resistor in series.
@@ -20,4 +19,5 @@ void loop() {
 3. Click the **Upload** button to compile and run the code.
 ![](https://github.com/tinusaur/guides/blob/master/docs/hello-world/images/Code-Sample02.JPG)
 
-The program starts running immediately after the upload is finished, which causes the LED to start blinking rapidly. See also ![](https://github.com/tinusaur/guides/blob/master/docs/hello-world/saving-internal-battery.md)
+The program starts running immediately after the upload is finished, which causes the LED to start blinking rapidly.
+See also ![](https://github.com/tinusaur/guides/blob/master/docs/hello-world/saving-internal-battery.md)
