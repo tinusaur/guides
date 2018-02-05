@@ -5,7 +5,7 @@
 1. Plug the USB programmer in a USB port on your computer.
 2. Connect the Tinusaur board to the USB programmer.
 3. Start the Arduino IDE.
-4. Copy the follwing code into the Arduino IDE editor: 
+4. Copy the following code into the Arduino IDE editor: 
 ```
 >void setup() {
 }
