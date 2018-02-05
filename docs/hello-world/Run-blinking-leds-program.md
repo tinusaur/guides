@@ -16,7 +16,7 @@ void loop() {
     delay(200);              // wait for a while
 }
 ```
-
+You can also copy the code you wrote in [Writing Your First Program](https://github.com/tinusaur/guides/blob/master/docs/hello-world/Hello-world-tinusaur-board.md)
 3. Click the **Upload** button to compile and run the code.
 
 ![](https://github.com/tinusaur/guides/blob/master/docs/hello-world/images/Code-Sample02.JPG)
